@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 
 I'm Mohammad Mohammadi
-Everything you should know is below
+Everything you should know about me, is below:
 
 ## About me
 Hello visitor! 
