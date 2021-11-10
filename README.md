@@ -38,7 +38,7 @@ I've worked python for 4 years and django for 2 years. I'm Linux user about 4 ye
 
 Perhaps now you know me just with above descriptions.
 
-### My operation systems
+### My operation systems :0
 [![](https://img.shields.io/badge/-opensuse-inactive?style=for-the-badge&logo=opensuse)](https://opensuse.org/)
 [![](https://img.shields.io/badge/-archlinux-informational?style=for-the-badge&logo=archlinux)](https://archlinux.org/)
 [![](https://img.shields.io/badge/-ubuntu-orange?style=for-the-badge&logo=ubuntu)](https://ubuntu.com/)
