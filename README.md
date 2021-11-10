@@ -24,17 +24,17 @@ Here are some ideas to get you started:
 
 
 
-I'm Mohammad Mohammadi
+I'm Mohammad Mohammadi 👀
 Everything you should know about me, is below:
 
 ## About me
-Hello visitor! 
+Hello visitor! 👋
 
 thanks to visit my github home page, maybe there is something you should know about me? actually who am I ?
-Im Python programmer and I so love this language it's so helpful & useful for me, IDK about you darling.
-Im Django(Python framework) developer, with this is so easy to create many types of website's, you should take everything easy (maybe PHP hates me or upside down)
-I have 18 years old with a little school lessons that I'll should learn them and Im a little busy these time's :(. maybe I should say sorry to you guy!
-I've worked python for 4 years and django for 2 years. I'm Linux user about 4 years too.
+Im Python programmer🐍 and I so ❤️ this language it's so helpful & useful for me, IDK about you darling🤷.
+Im Django(Python framework)👀 developer, with this is so easy to create many types of website's, you should take everything easy 😈(maybe PHP hates me or upside down)
+I have 18 years old with a little school lessons that I'll should learn them😣 and Im a little busy these time's :(. maybe I should say sorry to you guy!
+I've worked python for 4 years and django for 2 years. I'm Linux user about 4 years too.😎
 
 Perhaps now you know me just with above descriptions.
 
