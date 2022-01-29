@@ -28,13 +28,13 @@ I'm Mohammad Mohammadi 👀
 Everything you should know about me, is below:
 
 ## About me
-Hello visitor! 👋
+Hello dear visitor! 👋
 
-thanks for visiting my github home page, maybe there is something you should know about me? actually who am I ?
-I'm Python programmer🐍 and I so ❤️ this language it's so helpful & useful for me, IDK about you darling🤷.
-I'm Django(Python framework)👀 developer, It's so easy with Django to create many types of website's, you should take everything easy 😈(maybe PHP hates me or upside down)
-I have 18 years old with a little school lessons that I should learn them😣 and Im a little busy these time's :(. maybe I should say sorry for you guy!
+thanks for visiting my github page, maybe there is something you should know about me? Actually who am I ?
+I have 18 years old with a little school lessons that I should learn them😣 and Im a little busy these time's :(. Maybe I should say sorry for you guy!
 I've worked python for 4 years and django for 2 years. I'm a Linux user about 4 years too.😎
+I'm a Python programmer🐍 and I ❤️ this language so much. It's so serviceable for me, IDK about you darling🤷.
+I'm a Django(Web Python framework)👀 developer, It's so easy to create various types of websites with Django, you should take everything easy 😈(maybe PHP hates me or vice versa)
 
 Perhaps now you know me just with above descriptions.
 
@@ -45,13 +45,13 @@ Perhaps now you know me just with above descriptions.
 [![](https://img.shields.io/badge/-windows-informational?style=for-the-badge&logo=windows)](https://microsoft.com/)
 
 
-### The things that I'm working :D
+### Currently working on:D
 [![](https://img.shields.io/badge/-python-blue?style=for-the-badge&logo=python)](https://python.org/)
 [![](https://img.shields.io/badge/-django-success?style=for-the-badge&logo=django)](https://django.org/)
 [![](https://img.shields.io/badge/-django%20rest%20framework-red?style=for-the-badge&logo=django)](https://django-rest-framework.org/)
 
 
-### The things that I'm learning :)
+### Currently learning:)
 [![](https://img.shields.io/badge/-javascript-blue?style=for-the-badge&logo=javascript)](https://javascript.com/)
 [![](https://img.shields.io/badge/-react-blue?style=for-the-badge&logo=react)](https://reactjs.org/)
 
