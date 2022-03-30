@@ -1,4 +1,4 @@
-# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="100%">
+# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <!--
 **DrM0h4MM4d/DrM0h4MM4d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://github.com/DrM0h4MM4d/DrM0h4MM4d/blob/master/Dr.M0h4MM4d-new.png" width=80% height="200">
+<img src="https://github.com/DrM0h4MM4d/DrM0h4MM4d/blob/master/Dr.M0h4MM4d-new.png" width=100% height="200">
 
 [![](https://img.shields.io/badge/-telegram-informational?style=for-the-badge&logo=telegram)](https://t.me/DrM0h4MM4d)
 [![](https://img.shields.io/badge/-github-black?style=for-the-badge&logo=github)](https://github.com/DrM0h4MM4d)
