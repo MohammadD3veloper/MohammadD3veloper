@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://github.com/DrM0h4MM4d/DrM0h4MM4d/blob/master/Dr.M0h4MM4d-new.png" width=100% height="200">
+<img src="https://github.com/DrM0h4MM4d/DrM0h4MM4d/blob/master/Dr.M0h4MM4d-new.png" width=80% height="200" style="margin: auto !important">
 
 [![](https://img.shields.io/badge/-telegram-informational?style=for-the-badge&logo=telegram)](https://t.me/DrM0h4MM4d)
 [![](https://img.shields.io/badge/-github-black?style=for-the-badge&logo=github)](https://github.com/DrM0h4MM4d)
