@@ -54,7 +54,3 @@ Perhaps now you know me just with above descriptions.
 [![](https://img.shields.io/badge/-vue-green?style=for-the-badge&logo=vue.js)](https://vuejs.org/)
 [![](https://img.shields.io/badge/-docker-blue?style=for-the-badge&logo=docker)](https://www.docker.com)
 [![](https://img.shields.io/badge/-postgreSQL-blue?style=for-the-badge&logo=postgresql)](https://postgresql.org)
-
-
-### Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DrM0h4MM4d&theme=blueberry&show_icons=true)
