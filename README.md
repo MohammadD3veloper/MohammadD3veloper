@@ -51,7 +51,9 @@ Perhaps now you know me just with above descriptions.
 
 
 ### The things that I'm learning :)
-[![](https://img.shields.io/badge/-vue-green?style=for-the-badge&logo=vue)](https://vuejs.org/)
+[![](https://img.shields.io/badge/-vue-green?style=for-the-badge&logo=vue.js)](https://vuejs.org/)
+[![](https://img.shields.io/badge/-docker-blue?style=for-the-badge&logo=docker)](https://www.docker.com)
+[![](https://img.shields.io/badge/-postgreSQL-blue?style=for-the-badge&logo=postgresql)](https://postgresql.org)
 
 
 ### Stats
