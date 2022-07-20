@@ -41,18 +41,17 @@ Perhaps now you know me just with above descriptions.
 [![](https://img.shields.io/badge/-opensuse-inactive?style=for-the-badge&logo=opensuse)](https://opensuse.org/)
 [![](https://img.shields.io/badge/-archlinux-informational?style=for-the-badge&logo=archlinux)](https://archlinux.org/)
 [![](https://img.shields.io/badge/-ubuntu-orange?style=for-the-badge&logo=ubuntu)](https://ubuntu.com/)
-[![](https://img.shields.io/badge/-windows-informational?style=for-the-badge&logo=windows)](https://microsoft.com/)
 
 
 ### The things that I'm working :D
 [![](https://img.shields.io/badge/-python-blue?style=for-the-badge&logo=python)](https://python.org/)
 [![](https://img.shields.io/badge/-django-success?style=for-the-badge&logo=django)](https://django.org/)
 [![](https://img.shields.io/badge/-django%20rest%20framework-red?style=for-the-badge&logo=django)](https://django-rest-framework.org/)
+[![](https://img.shields.io/badge/-GraphQL-purple?style=for-the-badge&logo=graphql)](https://django-rest-framework.org/)
 
 
 ### The things that I'm learning :)
-[![](https://img.shields.io/badge/-javascript-blue?style=for-the-badge&logo=javascript)](https://javascript.com/)
-[![](https://img.shields.io/badge/-react-blue?style=for-the-badge&logo=react)](https://reactjs.org/)
+[![](https://img.shields.io/badge/-vue-green?style=for-the-badge&logo=vue)](https://vuejs.org/)
 
 
 ### Stats
