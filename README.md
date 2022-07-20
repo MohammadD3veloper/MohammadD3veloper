@@ -17,10 +17,9 @@ Here are some ideas to get you started:
 
 <img src="https://github.com/DrM0h4MM4d/DrM0h4MM4d/blob/master/Dr.M0h4MM4d-new.png" width=80% height="200" style="margin: auto !important">
 
-[![](https://img.shields.io/badge/-telegram-informational?style=for-the-badge&logo=telegram)](https://t.me/DrM0h4MM4d)
 [![](https://img.shields.io/badge/-github-black?style=for-the-badge&logo=github)](https://github.com/DrM0h4MM4d)
-[![](https://img.shields.io/badge/-reddit-red?style=for-the-badge&logo=reddit)](https://www.reddit.com/user/drM0h4MM4d/)
-[![](https://img.shields.io/badge/-gmail-white?style=for-the-badge&logo=gmail)](mailto:drmhmmddv@gmail.com)
+[![](https://img.shields.io/badge/-reddit-red?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mohammad-mohammadi-a62aab245)
+[![](https://img.shields.io/badge/-gmail-white?style=for-the-badge&logo=gmail)](mailto:mohammaddevelopermail@gmail.com)
 
 
 
