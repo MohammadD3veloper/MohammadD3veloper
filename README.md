@@ -23,16 +23,11 @@ Everything you should know about me, is below:
 ## About me
 Hello visitor! 👋
 
-thanks for visiting my github home page, maybe there is something you should know about me? actually who am I ?
-I'm Python programmer🐍 and I so ❤️ this language it's so helpful & useful for me, IDK about you darling🤷.
-I'm Django(Python framework)👀 developer, It's so easy with Django to create many types of website's, you should take everything easy 😈(maybe PHP hates me or upside down)
-I have 18 years old and Im going to the university in Tehran :).
-I've worked python about 3 years and django about a year. I'm a Linux user about 4 years too.😎
-
-Perhaps now you know me just with above descriptions.
+A 19 Y.O Python (Django-Backend) Developer that he understands, he likes FastApi too
+So, yeap. I learned Python programming when I was 15, and I learned Django when I was 17
+and I'm currently learning FastAPI
 
 ### My operation systems :0
-[![](https://img.shields.io/badge/-opensuse-inactive?style=for-the-badge&logo=opensuse)](https://opensuse.org/)
 [![](https://img.shields.io/badge/-archlinux-informational?style=for-the-badge&logo=archlinux)](https://archlinux.org/)
 [![](https://img.shields.io/badge/-ubuntu-orange?style=for-the-badge&logo=ubuntu)](https://ubuntu.com/)
 
@@ -45,12 +40,9 @@ Perhaps now you know me just with above descriptions.
 
 
 ### The things that I'm learning :)
-[![](https://img.shields.io/badge/-vue-green?style=for-the-badge&logo=vue.js)](https://vuejs.org/)
-[![](https://img.shields.io/badge/-docker-blue?style=for-the-badge&logo=docker)](https://www.docker.com)
-[![](https://img.shields.io/badge/-postgreSQL-blue?style=for-the-badge&logo=postgresql)](https://postgresql.org)
-
+[![](https://img.shields.io/badge/-fastapi-cyan?style=for-the-badge&logo=fastapi)](https://fastapi.tiangolo.com/)
 
 ### Contact Me
-[![](https://img.shields.io/badge/-github-black?style=for-the-badge&logo=github)](https://github.com/DrM0h4MM4d)
+[![](https://img.shields.io/badge/-github-black?style=for-the-badge&logo=github)](https://github.com/MohammadD3veloper)
 [![](https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mohammad-mohammadi-a62aab245)
 [![](https://img.shields.io/badge/-gmail-white?style=for-the-badge&logo=gmail)](mailto:mohammaddevelopermail@gmail.com)
