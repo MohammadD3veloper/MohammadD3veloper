@@ -23,9 +23,9 @@ Everything you should know about me, is below:
 ## About me
 Hello visitor! 👋
 
-A 19 Y.O Python (Django-Backend) Developer that he understands, he likes FastApi too
+A 20 Y.O Python (Django-Backend) Developer that he understands, he likes Devops too
 So, yeap. I learned Python programming when I was 15, and I learned Django when I was 17
-and I'm currently learning FastAPI
+and I'm currently learning Devops field
 
 ### My operation systems :0
 [![](https://img.shields.io/badge/-archlinux-informational?style=for-the-badge&logo=archlinux)](https://archlinux.org/)
@@ -40,7 +40,12 @@ and I'm currently learning FastAPI
 
 
 ### The things that I'm learning :)
-[![](https://img.shields.io/badge/-fastapi-cyan?style=for-the-badge&logo=fastapi)](https://fastapi.tiangolo.com/)
+[![](https://img.shields.io/badge/-ansible-red?style=for-the-badge&logo=ansible)](https://www.ansible.com)
+[![](https://img.shields.io/badge/-jenkins-white?style=for-the-badge&logo=jenkins)](https://www.jenkins.io/)
+[![](https://img.shields.io/badge/-docker-blue?style=for-the-badge&logo=docker)](https://www.docker.com/)
+[![](https://img.shields.io/badge/-kubernetes-blue?style=for-the-badge&logo=kubernetes)](https://kubernetes.io)
+[![](https://img.shields.io/badge/-prometheus-brown?style=for-the-badge&logo=prometheus)](https://prometheus.io/)
+
 
 ### Contact Me
 [![](https://img.shields.io/badge/-github-black?style=for-the-badge&logo=github)](https://github.com/MohammadD3veloper)
