@@ -23,7 +23,7 @@ Everything you should know about me, is below:
 ## About me
 Hello visitor! 👋
 
-A 20 Y.O Python (Django-Backend) Developer that he understands, he likes Devops too
+A 21 Y.O Python (Django-Backend) Developer that he understands, he likes Devops too
 So, yeap. I learned Python programming when I was 15, and I learned Django when I was 17
 and I'm currently learning Devops field
 
